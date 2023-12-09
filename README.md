@@ -5,11 +5,26 @@
 <h1 align="center">Hi 👋, I'm Tasnuva Islam Mila</h1>
 <h3 align="center">A dedicated MERN stack developer who recently completed an intensive learning journey. My expertise lies in crafting robust and scalable web applications using React.js for the frontend, Express.js for the backend, and MongoDB for the database.</h3>
 
+<h3 align="left">About Me</h3>
+
+<p>👨‍💻 What I bring to the table:
+<p>- Proficient in building interactive and responsive user interfaces with React.js.</p>
+<p>- Solid backend development skills using Express.js to create RESTful APIs and manage server-side logic.</p>
+<p>- Database design and management with MongoDB for efficient data storage and retrieval.</p>
+<p>- Strong problem-solving skills and a keen eye for detail to ensure seamless user experiences.</p>
+📚 Constantly learning and growing:
+I believe in the power of continuous learning, and I stay up-to-date with the latest trends and best practices in the MERN stack ecosystem. My commitment to improvement ensures that I can adapt to new challenges and deliver high-quality solutions.
+
+🌟 Let's build something amazing together:
+I'm actively seeking opportunities to contribute my skills to innovative projects. If you're looking for a passionate developer with a solid foundation in the MERN stack, let's connect and explore how I can bring value to your team.
+
+📫 Reach out:</p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=tasnu754&theme=synthwave)](https://git.io/streak-stats)
 
 <h3 align="left">Current Overview</h3>
 
-- 🌱 I’m currently learning **Next.js , SQL**
+- 🌱 I’m currently learning **Next.js and SQL**
 
 - 💬 Ask me about **React , Express.js , MongoDB**
 
