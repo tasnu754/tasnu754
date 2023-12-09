@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/qk6pR20/Web-Developer-Illustration-Facebook-Post.pngwe"
-         alt="Web Developer"  width="600"
-  height="400" />
+         alt="Web Developer"  width="900"
+  height="500" />
 
 <h1 align="center">Hi 👋, I'm Tasnuva Islam Mila</h1>
 <h3 align="center">A dedicated MERN stack developer who recently completed an intensive learning journey. My expertise lies in crafting robust and scalable web applications using React.js for the frontend, Express.js for the backend, and MongoDB for the database.</h3>
